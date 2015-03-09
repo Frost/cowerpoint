@@ -1,0 +1,3 @@
+-f tux
+This slide will result in piping this command to `cowsay -n -f tux`
+
